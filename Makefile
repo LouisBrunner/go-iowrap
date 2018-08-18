@@ -1,6 +1,6 @@
 BINARY =
 TARGET =
-LINT_PACKAGES = io*.go
+LINT_PACKAGES = *.go
 COVERPROFILES = *.coverprofile
 COVERPROFILE = goverprofile
 CWD = $(shell pwd)
